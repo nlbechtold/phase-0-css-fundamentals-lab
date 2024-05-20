@@ -1,5 +1,13 @@
 body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+  
+  text-align: center
+}
+P { text-align: center }
+
+H2 { text-align: center }
+
+#details {
+  background-color: red;
+  float: left;
+  width: 25%;
 }
